@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+This is my first repository.
+
+I like javascript, java and python the most.
